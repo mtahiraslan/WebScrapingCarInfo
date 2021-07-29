@@ -14,3 +14,6 @@
 7-Data cleaning operation on dataframe<br>
 8-Performing multiple paging operations<br>
 9-Export data to excel<br>
+
+<img src='dataFrame1.PNG'><br><br><br>
+<img src='dataFrame2.PNG'>
